@@ -1,0 +1,1 @@
+../pratice_1/hello_world.c
